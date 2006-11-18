@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE refactor PUBLIC "-//Borland Software Corporation//Refactor 1.0//EN" "http://www.borland.com/devsupport/jbuilder/dtds/refactor_1_0.dtd">
+
+<refactor>
+  <rename-field id="7AP0UQSL5RPER4YXHULFK8Z" creation-time="Mon Jul 17 20:10:57.544 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.ui.login.logger</declaring-class-name>
+    <old-field-name>borderLayout1</old-field-name>
+    <declared-field-type>Ljava/awt/BorderLayout;</declared-field-type>
+    <new-field-name>borderLayout</new-field-name>
+  </rename-field>
+  <rename-method id="7AP0BMXGQSPEHYQ07ULFK8Z" creation-time="Tue Jul 18 22:42:48.660 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.DynamicSQL</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;)Ljava/lang/String;</declared-method-signature>
+    <old-method-name>Select</old-method-name>
+    <new-method-name>select</new-method-name>
+  </rename-method>
+  <rename-class id="7AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 09:23:46.679 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.frmBancos</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.JInternalFrameBancos</new-class-name>
+  </rename-class>
+  <rename-class id="6AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 09:56:34.532 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.clsDepura</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.ClaseEscribeError</new-class-name>
+  </rename-class>
+  <rename-class id="5AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:08:13.182 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.clsFechaHora</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.ClaseFechaHora</new-class-name>
+  </rename-class>
+  <rename-class id="4AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:31:01.705 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.BtonNuevo</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.BonNuevo</new-class-name>
+  </rename-class>
+  <rename-class id="3AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:31:37.889 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.BtonNuevo</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.BotonNuevo</new-class-name>
+  </rename-class>
+  <rename-class id="2AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:32:40.473 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.BtonSalir</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.BotonSalir</new-class-name>
+  </rename-class>
+  <rename-class id="1AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:33:09.199 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.BtonSiguiente</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.BotonSiguiente</new-class-name>
+  </rename-class>
+  <rename-class id="0AP0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:33:24.801 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.BtonAnterior</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.BotonAnterior</new-class-name>
+  </rename-class>
+  <rename-class id="Z9P0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:33:42.439 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.BtonInicio</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.BotonInicio</new-class-name>
+  </rename-class>
+  <rename-class id="Y9P0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:34:00.486 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.BtonFin</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.BotonFin</new-class-name>
+  </rename-class>
+  <rename-class id="X9P0GY7DDTPEFLY86ULFK8Z" creation-time="Wed Jul 19 10:49:03.094 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.mdi.clsGuinges</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.mdi.ClaseGuinges</new-class-name>
+  </rename-class>
+  <rename-class id="7AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 22:34:04.902 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.ClaseEscribeError</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.EscribeError</new-class-name>
+  </rename-class>
+  <rename-class id="6AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 22:36:04.421 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.mdi.ClaseGuinges</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.mdi.Guinges</new-class-name>
+  </rename-class>
+  <rename-class id="5AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 22:37:09.158 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.ClaseFechaHora</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.FechaHora</new-class-name>
+  </rename-class>
+  <rename-class id="4AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 23:01:40.323 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.clsFicheros</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.RutaDeFicheros</new-class-name>
+  </rename-class>
+  <rename-method id="3AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 23:49:58.892 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.clsConfigIni</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;</declared-method-signature>
+    <old-method-name>ObtenerValorDeIni</old-method-name>
+    <new-method-name>obtenerValorDeIni</new-method-name>
+  </rename-method>
+  <rename-method id="2AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 23:50:58.281 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.clsConfigIni</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;</declared-method-signature>
+    <old-method-name>obtenerValorDeIni</old-method-name>
+    <new-method-name>obtenerValorIni</new-method-name>
+  </rename-method>
+  <rename-class id="1AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 23:52:53.704 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.clsConfigIni</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.Funciones</new-class-name>
+  </rename-class>
+  <rename-class id="0AP0Z2KL5UPEG8SYCULFK8Z" creation-time="Wed Jul 19 23:53:38.982 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.Funciones</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.ConfigIni</new-class-name>
+  </rename-class>
+  <rename-method id="Z9P0Z2KL5UPEG8SYCULFK8Z" creation-time="Thu Jul 20 00:07:10.809 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.RutaDeFicheros</declaring-class-name>
+    <declared-method-signature>()Ljava/lang/String;</declared-method-signature>
+    <old-method-name>logsFielDir</old-method-name>
+    <new-method-name>logFileDir</new-method-name>
+  </rename-method>
+  <rename-class id="Y9P0Z2KL5UPEG8SYCULFK8Z" creation-time="Thu Jul 20 00:19:12.601 CEST 2006">
+    <old-class-name>com.carama.app.guinges.db.datos.metadata.DynamicSQL</old-class-name>
+    <new-class-name>com.carama.app.guinges.db.datos.metadata.ConstructSQL</new-class-name>
+  </rename-class>
+  <rename-class id="7AP02U3XFVPELVSZCULFK8Z" creation-time="Thu Jul 20 20:10:45.980 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.mdi.frmPrincipal_mnuFileExit_actionAdapter</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.mdi.menuFileExit</new-class-name>
+  </rename-class>
+  <rename-class id="6AP02U3XFVPELVSZCULFK8Z" creation-time="Thu Jul 20 20:11:25.748 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.mdi.frmPrincipal_mnuFileExit_actionAdapter</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.mdi.MenuFileExit</new-class-name>
+  </rename-class>
+  <rename-class id="5AP02U3XFVPELVSZCULFK8Z" creation-time="Thu Jul 20 20:14:29.891 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.mdi.clsGuinges_linkbancos_actionAdapter</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.mdi.LinkBancos</new-class-name>
+  </rename-class>
+  <rename-class id="4AP02U3XFVPELVSZCULFK8Z" creation-time="Thu Jul 20 20:15:07.786 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.mdi.clsGuinges_linktrucos_actionAdapter</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.mdi.LinkTrucos</new-class-name>
+  </rename-class>
+  <rename-class id="3AP02U3XFVPELVSZCULFK8Z" creation-time="Thu Jul 20 20:30:57.765 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.login.login</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.login.Login</new-class-name>
+  </rename-class>
+  <rename-class id="7AP0DM15LVPE4VU42ULFK8Z" creation-time="Thu Jul 20 22:36:54.498 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.principal.main</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.principal.Main</new-class-name>
+  </rename-class>
+  <rename-class id="6AP0DM15LVPE4VU42ULFK8Z" creation-time="Thu Jul 20 22:51:51.023 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.calendario.calendario</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.calendario.Calendario</new-class-name>
+  </rename-class>
+  <rename-method id="7AP0SKMMD3QENK7VULFK8Z" creation-time="Wed Jul 26 09:28:47.158 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.ConstructSQL</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;)Ljava/sql/ResultSet;</declared-method-signature>
+    <old-method-name>dataType</old-method-name>
+    <new-method-name>resultset</new-method-name>
+  </rename-method>
+  <rename-class id="7AP0QXTY74QEWHL04ULFK8Z" creation-time="Wed Jul 26 23:38:05.194 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.clsFileDirectory</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.MakeFileDirectory</new-class-name>
+  </rename-class>
+  <rename-class id="6AP0QXTY74QEWHL04ULFK8Z" creation-time="Wed Jul 26 23:40:36.128 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.clsLookAndFeel</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.CaramaLookAndFeel</new-class-name>
+  </rename-class>
+  <rename-class id="7AP0A8CG49QEA1NX6ULFK8Z" creation-time="Sun Jul 30 09:58:34.470 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.bancos.JInternalFrameBancos</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.bancos.FrmBancos</new-class-name>
+  </rename-class>
+  <rename-method id="6AP0A8CG49QEA1NX6ULFK8Z" creation-time="Sun Jul 30 10:13:30.222 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.ConstructSQL</declaring-class-name>
+    <declared-method-signature>(I)V</declared-method-signature>
+    <old-method-name>registro</old-method-name>
+    <new-method-name>irRegistro</new-method-name>
+  </rename-method>
+  <rename-class id="7AP0XBM4JAQEU07W1ULFK8Z" creation-time="Mon Jul 31 09:37:08.102 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.EscribeError</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.EscribeLogs</new-class-name>
+  </rename-class>
+  <rename-method id="6AP0XBM4JAQEU07W1ULFK8Z" creation-time="Mon Jul 31 09:39:22.430 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.EscribeLogs</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;Z)V</declared-method-signature>
+    <old-method-name>depura</old-method-name>
+    <new-method-name>escribeError</new-method-name>
+  </rename-method>
+  <rename-method id="7AP032F9CBQE9NFG8ULFK8Z" creation-time="Mon Jul 31 23:12:40.801 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.CaramaLookAndFeel</declaring-class-name>
+    <declared-method-signature>()V</declared-method-signature>
+    <old-method-name>setVisualStudio2005LookAndFeel</old-method-name>
+    <new-method-name>setTinyLookAndFeel</new-method-name>
+  </rename-method>
+  <rename-method id="6AP032F9CBQE9NFG8ULFK8Z" creation-time="Mon Jul 31 23:19:43.542 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.CaramaLookAndFeel</declaring-class-name>
+    <declared-method-signature>()V</declared-method-signature>
+    <old-method-name>setRedmondLookAndFeel</old-method-name>
+    <new-method-name>setAquaLookAndFeel</new-method-name>
+  </rename-method>
+  <rename-method id="7AP0DZJKWDQEY8161ULFK8Z" creation-time="Wed Aug 02 18:16:45.074 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.CaramaLookAndFeel</declaring-class-name>
+    <declared-method-signature>()V</declared-method-signature>
+    <old-method-name>setNativeLookAndFeel</old-method-name>
+    <new-method-name>setRedmondLookAndFeel</new-method-name>
+  </rename-method>
+  <rename-method id="6AP0DZJKWDQEY8161ULFK8Z" creation-time="Wed Aug 02 20:51:14.066 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.utils.CaramaLookAndFeel</declaring-class-name>
+    <declared-method-signature>()V</declared-method-signature>
+    <old-method-name>setJavaLookAndFeel</old-method-name>
+    <new-method-name>setMetalLookAndFeel</new-method-name>
+  </rename-method>
+  <rename-class id="7AP0PI0VPFQEABBMHULFK8Z" creation-time="Fri Aug 04 00:44:28.125 CEST 2006">
+    <old-class-name>com.carama.app.guinges.ui.popup.PopupMenu</old-class-name>
+    <new-class-name>com.carama.app.guinges.ui.popup.MenuFlotante</new-class-name>
+  </rename-class>
+  <rename-class id="7AP0Q3160BREZ5UG6ULFK8Z" creation-time="Fri Aug 25 22:13:49.713 CEST 2006">
+    <old-class-name>com.carama.app.guinges.db.datos.metadata.ConstructSQL</old-class-name>
+    <new-class-name>com.carama.app.guinges.db.datos.metadata.JDBCUtils</new-class-name>
+  </rename-class>
+  <rename-method id="6AP0Q3160BREZ5UG6ULFK8Z" creation-time="Fri Aug 25 23:18:37.797 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.JDBCUtils</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;)Ljava/lang/String;</declared-method-signature>
+    <old-method-name>select</old-method-name>
+    <new-method-name>toSelect</new-method-name>
+  </rename-method>
+  <rename-method id="5AP0Q3160BREZ5UG6ULFK8Z" creation-time="Fri Aug 25 23:19:24.975 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.JDBCUtils</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;Ljava/util/ArrayList;Ljava/lang/String;)V</declared-method-signature>
+    <old-method-name>updateSQL</old-method-name>
+    <new-method-name>toUpdate</new-method-name>
+  </rename-method>
+  <rename-method id="4AP0Q3160BREZ5UG6ULFK8Z" creation-time="Fri Aug 25 23:19:51.334 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.JDBCUtils</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;I)V</declared-method-signature>
+    <old-method-name>deleteSQL</old-method-name>
+    <new-method-name>toDelete</new-method-name>
+  </rename-method>
+  <rename-method id="3AP0Q3160BREZ5UG6ULFK8Z" creation-time="Fri Aug 25 23:20:37.708 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.JDBCUtils</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;)V</declared-method-signature>
+    <old-method-name>execQuery</old-method-name>
+    <new-method-name>toExecQuery</new-method-name>
+  </rename-method>
+  <rename-method id="2AP0Q3160BREZ5UG6ULFK8Z" creation-time="Fri Aug 25 23:44:35.043 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.JDBCUtils</declaring-class-name>
+    <declared-method-signature>()Ljava/lang/String;</declared-method-signature>
+    <old-method-name>getCustomerListAsString</old-method-name>
+    <new-method-name>getDataToXML</new-method-name>
+  </rename-method>
+  <rename-method id="1AP0Q3160BREZ5UG6ULFK8Z" creation-time="Fri Aug 25 23:56:13.357 CEST 2006">
+    <declaring-class-name>com.carama.app.guinges.db.datos.metadata.JDBCUtils</declaring-class-name>
+    <declared-method-signature>(Ljava/lang/String;)Ljava/lang/String;</declared-method-signature>
+    <old-method-name>getDataToXML</old-method-name>
+    <new-method-name>getDataToXMLasString</new-method-name>
+  </rename-method>
+  <rename-class id="0AP0Q3160BREZ5UG6ULFK8Z" creation-time="Sat Aug 26 00:17:38.363 CEST 2006">
+    <old-class-name>com.carama.app.guinges.utils.RutaDeFicheros</old-class-name>
+    <new-class-name>com.carama.app.guinges.utils.PathDirAndFiles</new-class-name>
+  </rename-class>
+</refactor>
+

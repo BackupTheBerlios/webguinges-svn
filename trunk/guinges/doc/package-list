@@ -1,0 +1,9 @@
+com.carama.app.guinges.db.connection
+com.carama.app.guinges.db.datos.metadata
+com.carama.app.guinges.ui
+com.carama.app.guinges.ui.about
+com.carama.app.guinges.ui.bancos
+com.carama.app.guinges.ui.login
+com.carama.app.guinges.ui.mdi
+com.carama.app.guinges.ui.principal
+com.carama.app.guinges.utils

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DATABASE SYSTEM "DATABASE.dtd">
+<DATABASE><FIREBIRD>jdbc:firebirdsql:ubuntu/3050:</FIREBIRD><HOSTNAME>ubuntu</HOSTNAME><USER>SYSDBA</USER><DRIVER>org.firebirdsql.jdbc.FBDriver</DRIVER><URL>jdbc:firebirdsql:ubuntu/3050:/media/hdd2/workspace/guinges_/datos/guinges.gdb</URL></DATABASE>

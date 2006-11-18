@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+<!--JBuilder Library Definition File-->
+<fullname>exts</fullname>
+<class>
+<path>[exts/l2fprod-common-all.jar]</path>
+<path>[exts/jaybird-full-2.0.1.jar]</path>
+<path>[exts/jbcl.jar]</path>
+<path>[exts/nimrodlf-0.93.jar]</path>
+<path>[exts/smoothmetal.jar]</path>
+<path>[exts/swingx.jar]</path>
+<path>[exts/looks-2.0.4.jar]</path>
+<path>[exts/tinylaf.jar]</path>
+<path>[exts/toniclf.jar]</path>
+<path>[exts/PgsLookAndFeel.jar]</path>
+<path>[exts/jdom.jar]</path>
+<path>[exts/dom4j.jar]</path>
+<path>[exts/xml.jar]</path>
+</class>
+<lastmodsaved>1156540499584</lastmodsaved>
+</library>

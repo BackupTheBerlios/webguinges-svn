@@ -1,0 +1,74 @@
+[PropertyInfo]
+bd,com.carama.app.guinges.db.datos.metadata.ConstructSQL,false,false, , ,false,<default>
+bordeNaranja,javax.swing.border.Border,false,false, , ,false,<default>
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout2,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout3,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout4,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout5,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout6,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout7,java.awt.BorderLayout,false,false, , ,false,<default>
+btnAnterior,javax.swing.JButton,false,false, , ,false,<default>
+btnBorrar,javax.swing.JButton,false,false, , ,false,<default>
+btnBuscar,javax.swing.JButton,false,false, , ,false,<default>
+btnEditar,javax.swing.JButton,false,false, , ,false,<default>
+btnFiltrar,javax.swing.JButton,false,false, , ,false,<default>
+btnFin,javax.swing.JButton,false,false, , ,false,<default>
+btnGuardar,javax.swing.JButton,false,false, , ,false,<default>
+btnImprimir,javax.swing.JButton,false,false, , ,false,<default>
+btnInicio,javax.swing.JButton,false,false, , ,false,<default>
+btnIr,javax.swing.JButton,false,false, , ,false,<default>
+btnNuevo,javax.swing.JButton,false,false, , ,false,<default>
+btnSalir,javax.swing.JButton,false,false, , ,false,<default>
+btnSiguiente,javax.swing.JButton,false,false, , ,false,<default>
+cbDejarFijo,javax.swing.JCheckBox,false,false, , ,false,<default>
+cbMostrarAyuda,javax.swing.JCheckBox,false,false, , ,false,<default>
+cmbox,javax.swing.JComboBox,false,false, , ,false,<default>
+cmboxfiltro,javax.swing.JComboBox,false,false, , ,false,<default>
+flowLayout1,java.awt.FlowLayout,false,false, , ,false,<default>
+gridLayout1,java.awt.GridLayout,false,false, , ,false,<default>
+jpanelnorte,javax.swing.JPanel,false,false, , ,false,<default>
+label,javax.swing.JLabel,false,false, , ,false,<default>
+lblCodigo,javax.swing.JLabel,false,false, , ,false,<default>
+lbldescripcion,javax.swing.JLabel,false,false, , ,false,<default>
+lblfamilia,javax.swing.JLabel,false,false, , ,false,<default>
+lblNotas,javax.swing.JLabel,false,false, , ,false,<default>
+lblrazonsocial,javax.swing.JLabel,false,false, , ,false,<default>
+lbltelefono,javax.swing.JLabel,false,false, , ,false,<default>
+lbltelefono2,javax.swing.JLabel,false,false, , ,false,<default>
+lbltitulo,javax.swing.JLabel,false,false, , ,false,<default>
+panelcodcenter,javax.swing.JPanel,false,false, , ,false,<default>
+panelcodigo,javax.swing.JPanel,false,false, , ,false,<default>
+panelDetalle,javax.swing.JPanel,false,false, , ,false,<default>
+panelEstado,javax.swing.JPanel,false,false, , ,false,<default>
+panelGrupo,javax.swing.JPanel,false,false, , ,false,<default>
+panelnavegacion,javax.swing.JPanel,false,false, , ,false,<default>
+panelnorte,javax.swing.JPanel,false,false, , ,false,<default>
+panelsur,javax.swing.JPanel,false,false, , ,false,<default>
+paneltitulo,javax.swing.JPanel,false,false, , ,false,<default>
+rs,java.sql.ResultSet,false,false, , ,false,<default>
+rsOpen,boolean,false,false, , ,false,<default>
+scrollpane,javax.swing.JScrollPane,false,false, , ,false,<default>
+scrpane,javax.swing.JScrollPane,false,false, , ,false,<default>
+tabla,org.jdesktop.swingx.JXTable,false,false, , ,false,<default>
+tbpane,javax.swing.JTabbedPane,false,false, , ,false,<default>
+toolbar,javax.swing.JToolBar,false,false, , ,false,<default>
+txtarea,javax.swing.JTextArea,false,false, , ,false,<default>
+txtbuscar,javax.swing.JTextField,false,false, , ,false,<default>
+txtCentro,javax.swing.JTextField,false,false, , ,false,<default>
+txtcodigo,javax.swing.JTextField,false,false, , ,false,<default>
+txtcontacto,javax.swing.JTextField,false,false, , ,false,<default>
+txtDerecha,javax.swing.JTextField,false,false, , ,false,<default>
+txtdescripcion,javax.swing.JTextField,false,false, , ,false,<default>
+txtIzquieda,javax.swing.JTextField,false,false, , ,false,<default>
+txtrazonsocial,javax.swing.JTextField,false,false, , ,false,<default>
+txttelefono,javax.swing.JTextField,false,false, , ,false,<default>
+txttelefono2,javax.swing.JTextField,false,false, , ,false,<default>
+verticalFlowLayout,com.borland.jbcl.layout.VerticalFlowLayout,false,false, , ,false,<default>
+XYLayout1,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+XYLayout2,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

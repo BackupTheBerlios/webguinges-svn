@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation text="Default annotation" value="default">
+  <provincias value="item" text="1">
+    <attribute value="COD" text="1"/>
+    <attribute value="DESCRIPCION" text="ÁLAVA"/>
+  </provincias>
+  <provincias value="item" text="2">
+    <attribute value="COD" text="2"/>
+    <attribute value="DESCRIPCION" text="ALBACETE"/>
+  </provincias>
+  <provincias value="item" text="3">
+    <attribute value="COD" text="3"/>
+    <attribute value="DESCRIPCION" text="ALICANTE"/>
+  </provincias>
+  <provincias value="item" text="4">
+    <attribute value="COD" text="4"/>
+    <attribute value="DESCRIPCION" text="ALMERÍA"/>
+  </provincias>
+  <provincias value="item" text="5">
+    <attribute value="COD" text="5"/>
+    <attribute value="DESCRIPCION" text="ASTURIAS"/>
+  </provincias>
+  <provincias value="item" text="6">
+    <attribute value="COD" text="6"/>
+    <attribute value="DESCRIPCION" text="ÁVILA"/>
+  </provincias>
+  <provincias value="item" text="7">
+    <attribute value="COD" text="7"/>
+    <attribute value="DESCRIPCION" text="BADAJOZ"/>
+  </provincias>
+  <provincias value="item" text="8">
+    <attribute value="COD" text="8"/>
+    <attribute value="DESCRIPCION" text="ISLAS BALEARES"/>
+  </provincias>
+  <provincias value="item" text="9">
+    <attribute value="COD" text="9"/>
+    <attribute value="DESCRIPCION" text="BARCELONA"/>
+  </provincias>
+  <provincias value="item" text="10">
+    <attribute value="COD" text="10"/>
+    <attribute value="DESCRIPCION" text="BURGOS"/>
+  </provincias>
+  <provincias value="item" text="11">
+    <attribute value="COD" text="11"/>
+    <attribute value="DESCRIPCION" text="CÁCERES"/>
+  </provincias>
+  <provincias value="item" text="12">
+    <attribute value="COD" text="12"/>
+    <attribute value="DESCRIPCION" text="CÁDIZ"/>
+  </provincias>
+  <provincias value="item" text="13">
+    <attribute value="COD" text="13"/>
+    <attribute value="DESCRIPCION" text="CANTABRIA"/>
+  </provincias>
+  <provincias value="item" text="14">
+    <attribute value="COD" text="14"/>
+    <attribute value="DESCRIPCION" text="CASTELLÓN"/>
+  </provincias>
+  <provincias value="item" text="15">
+    <attribute value="COD" text="15"/>
+    <attribute value="DESCRIPCION" text="CIUDAD REAL"/>
+  </provincias>
+  <provincias value="item" text="16">
+    <attribute value="COD" text="16"/>
+    <attribute value="DESCRIPCION" text="CÓRDOBA"/>
+  </provincias>
+  <provincias value="item" text="17">
+    <attribute value="COD" text="17"/>
+    <attribute value="DESCRIPCION" text="LA CORUÑA"/>
+  </provincias>
+  <provincias value="item" text="18">
+    <attribute value="COD" text="18"/>
+    <attribute value="DESCRIPCION" text="CUENCA"/>
+  </provincias>
+  <provincias value="item" text="19">
+    <attribute value="COD" text="19"/>
+    <attribute value="DESCRIPCION" text="GERONA"/>
+  </provincias>
+  <provincias value="item" text="20">
+    <attribute value="COD" text="20"/>
+    <attribute value="DESCRIPCION" text="GRANADA"/>
+  </provincias>
+  <provincias value="item" text="21">
+    <attribute value="COD" text="21"/>
+    <attribute value="DESCRIPCION" text="GUADALAJARA"/>
+  </provincias>
+  <provincias value="item" text="22">
+    <attribute value="COD" text="22"/>
+    <attribute value="DESCRIPCION" text="GUIPÚZCOA"/>
+  </provincias>
+  <provincias value="item" text="23">
+    <attribute value="COD" text="23"/>
+    <attribute value="DESCRIPCION" text="HUELVA"/>
+  </provincias>
+  <provincias value="item" text="24">
+    <attribute value="COD" text="24"/>
+    <attribute value="DESCRIPCION" text="HUESCA"/>
+  </provincias>
+  <provincias value="item" text="25">
+    <attribute value="COD" text="25"/>
+    <attribute value="DESCRIPCION" text="JAÉN"/>
+  </provincias>
+  <provincias value="item" text="26">
+    <attribute value="COD" text="26"/>
+    <attribute value="DESCRIPCION" text="LEÓN"/>
+  </provincias>
+  <provincias value="item" text="27">
+    <attribute value="COD" text="27"/>
+    <attribute value="DESCRIPCION" text="LÉRIDA"/>
+  </provincias>
+  <provincias value="item" text="28">
+    <attribute value="COD" text="28"/>
+    <attribute value="DESCRIPCION" text="LUGO"/>
+  </provincias>
+  <provincias value="item" text="29">
+    <attribute value="COD" text="29"/>
+    <attribute value="DESCRIPCION" text="MADRID"/>
+  </provincias>
+  <provincias value="item" text="30">
+    <attribute value="COD" text="30"/>
+    <attribute value="DESCRIPCION" text="MÁLAGA"/>
+  </provincias>
+  <provincias value="item" text="31">
+    <attribute value="COD" text="31"/>
+    <attribute value="DESCRIPCION" text="MURCIA"/>
+  </provincias>
+  <provincias value="item" text="32">
+    <attribute value="COD" text="32"/>
+    <attribute value="DESCRIPCION" text="NAVARRA"/>
+  </provincias>
+  <provincias value="item" text="33">
+    <attribute value="COD" text="33"/>
+    <attribute value="DESCRIPCION" text="ORENSE"/>
+  </provincias>
+  <provincias value="item" text="34">
+    <attribute value="COD" text="34"/>
+    <attribute value="DESCRIPCION" text="PALENCIA"/>
+  </provincias>
+  <provincias value="item" text="35">
+    <attribute value="COD" text="35"/>
+    <attribute value="DESCRIPCION" text="LAS PALMAS"/>
+  </provincias>
+  <provincias value="item" text="36">
+    <attribute value="COD" text="36"/>
+    <attribute value="DESCRIPCION" text="PONTEVEDRA"/>
+  </provincias>
+  <provincias value="item" text="37">
+    <attribute value="COD" text="37"/>
+    <attribute value="DESCRIPCION" text="LA RIOJA"/>
+  </provincias>
+  <provincias value="item" text="38">
+    <attribute value="COD" text="38"/>
+    <attribute value="DESCRIPCION" text="SALAMANCA"/>
+  </provincias>
+  <provincias value="item" text="39">
+    <attribute value="COD" text="39"/>
+    <attribute value="DESCRIPCION" text="SANTA CRUZ DE TENERIFE"/>
+  </provincias>
+  <provincias value="item" text="40">
+    <attribute value="COD" text="40"/>
+    <attribute value="DESCRIPCION" text="SEGOVIA"/>
+  </provincias>
+  <provincias value="item" text="41">
+    <attribute value="COD" text="41"/>
+    <attribute value="DESCRIPCION" text="SEVILLA"/>
+  </provincias>
+  <provincias value="item" text="42">
+    <attribute value="COD" text="42"/>
+    <attribute value="DESCRIPCION" text="SORIA"/>
+  </provincias>
+  <provincias value="item" text="43">
+    <attribute value="COD" text="43"/>
+    <attribute value="DESCRIPCION" text="TARRAGONA"/>
+  </provincias>
+  <provincias value="item" text="44">
+    <attribute value="COD" text="44"/>
+    <attribute value="DESCRIPCION" text="TERUEL"/>
+  </provincias>
+  <provincias value="item" text="45">
+    <attribute value="COD" text="45"/>
+    <attribute value="DESCRIPCION" text="TOLEDO"/>
+  </provincias>
+  <provincias value="item" text="46">
+    <attribute value="COD" text="46"/>
+    <attribute value="DESCRIPCION" text="VALENCIA"/>
+  </provincias>
+  <provincias value="item" text="47">
+    <attribute value="COD" text="47"/>
+    <attribute value="DESCRIPCION" text="VALLADOLID"/>
+  </provincias>
+  <provincias value="item" text="48">
+    <attribute value="COD" text="48"/>
+    <attribute value="DESCRIPCION" text="VIZCAYA"/>
+  </provincias>
+  <provincias value="item" text="49">
+    <attribute value="COD" text="49"/>
+    <attribute value="DESCRIPCION" text="ZAMORA"/>
+  </provincias>
+  <provincias value="item" text="50">
+    <attribute value="COD" text="50"/>
+    <attribute value="DESCRIPCION" text="ZARAGOZA"/>
+  </provincias>
+</annotation>

@@ -1,0 +1,20 @@
+[PropertyInfo]
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout2,java.awt.BorderLayout,false,false, , ,false,<default>
+btnSalir,javax.swing.JButton,false,false, , ,false,<default>
+JButton1,javax.swing.JButton,false,false, , ,false,<default>
+lblPassword,javax.swing.JLabel,false,false, , ,false,<default>
+lblUser,javax.swing.JLabel,false,false, , ,false,<default>
+panelcentro,javax.swing.JPanel,false,false, , ,false,<default>
+panelcentrocentro,javax.swing.JPanel,false,false, , ,false,<default>
+panelcentronorte,javax.swing.JPanel,false,false, , ,false,<default>
+panelcentrosur,javax.swing.JPanel,false,false, , ,false,<default>
+panelnorte,javax.swing.JPanel,false,false, , ,false,<default>
+txtPassword,javax.swing.JPasswordField,false,false, , ,false,<default>
+txtUser,javax.swing.JTextField,false,false, , ,false,<default>
+verticalFlowLayout1,com.borland.jbcl.layout.VerticalFlowLayout,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="exts/dom4j.jar"/>
+	<classpathentry kind="lib" path="exts/jaybird-full-2.0.1.jar"/>
+	<classpathentry kind="lib" path="exts/jbcl.jar"/>
+	<classpathentry kind="lib" path="exts/jdom.jar"/>
+	<classpathentry kind="lib" path="exts/l2fprod-common-all.jar"/>
+	<classpathentry kind="lib" path="exts/looks-2.0.4.jar"/>
+	<classpathentry kind="lib" path="exts/nimrodlf-0.93.jar"/>
+	<classpathentry kind="lib" path="exts/PgsLookAndFeel.jar"/>
+	<classpathentry kind="lib" path="exts/smoothmetal.jar"/>
+	<classpathentry kind="lib" path="exts/swingx.jar"/>
+	<classpathentry kind="lib" path="exts/tinylaf.jar"/>
+	<classpathentry kind="lib" path="exts/toniclf.jar"/>
+	<classpathentry kind="lib" path="exts/xml.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
